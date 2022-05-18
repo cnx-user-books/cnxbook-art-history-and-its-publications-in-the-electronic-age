@@ -1,0 +1,60 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10376</md:content-id>
+    <md:title>Art History and Its Publications in the Electronic Age</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>33c57596-5e5b-4081-ae62-9ee978e188c3</md:uuid>
+<md:slug>art-history-and-its-publications-in-the-electronic-age</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m13916"/>
+    <col:module document="m13915"/>
+    <col:module document="m13945"/>
+    <col:subcollection>
+      <md:title>Dynamics of Art History Publication</md:title>
+      <col:content>
+        <col:module document="m13932"/>
+        <col:module document="m13921"/>
+        <col:module document="m13933"/>
+        <col:module document="m13966"/>
+        <col:module document="m13909"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Image Economy</md:title>
+      <col:content>
+        <col:module document="m13930"/>
+        <col:module document="m13912"/>
+        <col:module document="m13923"/>
+        <col:module document="m13940"/>
+        <col:module document="m13918"/>
+        <col:module document="m13914"/>
+        <col:module document="m13952"/>
+        <col:module document="m13948"/>
+        <col:module document="m13955"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electronic Publication</md:title>
+      <col:content>
+        <col:module document="m13928"/>
+        <col:module document="m13960"/>
+        <col:module document="m13947"/>
+        <col:module document="m13924"/>
+        <col:module document="m13926"/>
+        <col:module document="m13961"/>
+        <col:module document="m13908"/>
+        <col:module document="m13964"/>
+        <col:module document="m13906"/>
+        <col:module document="m13958"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Recommendations</md:title>
+      <col:content>
+        <col:module document="m13949"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Word and Image Synchronized</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>33696d46-2b25-4b41-b71a-b512d17f27d9</md:uuid>
+</metadata>
+<content>
+
+<para id="id2949973">Existing digital publications have failed to
+serve art history well. This is understandable: no other discipline
+attaches the same value to the image—its quality and
+interactivity—or requires the tight interlocking of image and text.
+Most e-publications, both books and journals, are in pdf format,
+reflecting their origins in print. Under these conditions, image
+quality deteriorates, the page is static, and special viewing tools
+can not be deployed. The clickable in-page images in some recent
+e-publications are an immense improvement. Clicking on the
+thumbnail image enlarges it and allows for zooming and panning, but
+the full-frame image on a white backdrop fills the entire screen
+and the text disappears.</para>
+<para id="id2943335">The substitutional relation of word and image
+may suffice in some fields, but not in art history, where images
+are integral to the investigation, not purely demonstrative. Text
+directs your attention to the image, and the two interlock. On the
+printed page, layout constraints often cause text and image to fall
+out of sync; reading involves a multifinger procedure to bookmark
+scattered illustrations. This constraint need not exist online,
+where a simultaneous on-screen presence of text and image can be
+maintained. The relationship of word and image might be rethought
+for the computer screen to take advantage of its horizontal
+orientation. Today, screen displays remain beholden to the printed
+page, leaving empty space on the margins of an on-screen text page.
+The width of the computer screen could be usefully harnessed to
+allow for split screens with adjacent but separately maneuverable
+pages of text and image.</para>
+<para id="id3045581">The <link url="http://www.artstor.org/info/tools/tools_public_oiv.jsp">ARTstor offline viewer</link> offers exemplary
+features that could be the basis for a parallel text-image display.
+A screen could be divided in two parts, a text window next to an
+image window equipped with ARTstor's array of viewer tools to zoom
+and pan, view QuickTime videos, and perhaps in the future 3-D
+models, animations and other simulations. This split-screen
+arrangement would allow the reader to read the text while moving
+the images backward and forward as warranted by the author's
+argument and the reader's curiosity. An additional window might
+have thumbnail slides as a navigational aide through a large
+illustration program. Tk3 Author software also offers flexible
+screen layouts and permits assemblage of multimedia. However, its
+polytextuality—the mixing of multiple media—lacks the specific
+emphasis on high-quality images and image viewing tools that
+distinguish ARTstor and are demanded by art and architectural
+history.<footnote id="idp1574432">The art historical community has a stake in
+screen display not only as an instrumental matter and extension of
+the disciplinary interest in visual appearance but also a
+conceptual issue. The Albertian conception of the picture as an
+open window informed the development of the virtual window of the
+computer screen. Anne Friedberg argues that "the 'Windows' trope in
+computer software has become emblematic of the collapse of the
+single viewpoint, relying on the model of a window that we can't
+see through; windows that overlap, obscure." See her essay, "The
+Virtual Window," in <cite><cite-title>Rethinking Media Change</cite-title></cite>, 347, a prelude to her
+forthcoming book of the same title (Cambridge, Mass.: MIT Press,
+2006).</footnote></para>
+<para id="id2873315"><link url="http://www.artstor.org/info/">ARTstor</link> is likely to be vital in developing
+the full potential of electronic publishing in the arts. Although
+not a publisher, ARTstor offers a sophisticated viewing tool and is
+the dominant provider of digital images. Its successful strategy of
+eliminating redundancy by building a central image repository also
+pertains to electronic publishing where the high hurdles in art
+history have had the demonstrable effect of barring scholarly
+journals and publishers from entering the field, and where the
+formidable challenges and costs specific to art history are too
+great for underresourced journals and scholarly societies to meet
+individually.</para>
+</content>
+</document>
